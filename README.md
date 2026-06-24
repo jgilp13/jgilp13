@@ -31,5 +31,5 @@ Mi enfoque principal está en la intersección entre la **programación backend*
 ## 📬 Conecta conmigo
 
 * 📧 **Email:** jaimejaviergil@hotmail.com
-* 💼 **GitHub/LinkedIn:** [jaimegil13](https://github.com/jaimegil13)
+* 💼 **GitHub/LinkedIn:** [jaimegil13](https://www.linkedin.com/in/jaimegil13/?locale=es-ES)
 * 📍 **Ubicación:** Barcelona, Spain
